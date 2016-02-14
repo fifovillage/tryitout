@@ -1,22 +1,27 @@
+.jumbotron {
+  padding: 10px 0px;
+  margin: 35px 5px;
+}
 
+.blue {
+  background-color: rgb(59, 140, 165);
+  color: white;
+  padding-top: 0px;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+.wheat {
+  background-color: rgb(255, 251, 241);
+}
 
+img {
+  width: 90%;
+}
 
+.thumbnail {
+  width: 25%;
+  margin-right: 10px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.btm-brdr{
+  border-bottom: 1px solid white;
+}
